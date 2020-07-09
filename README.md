@@ -102,3 +102,4 @@ bash
 ```
 $ ./gscloud completion bash >> ~/.bash_profile
 ```
+a
